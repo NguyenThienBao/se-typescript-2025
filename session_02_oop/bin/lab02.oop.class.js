@@ -3,7 +3,7 @@ const us = {
     id: 1,
     name: "Henry"
 };
-console.log(`u = ${us} - type: ${typeof us}`);
+console.log(`us = ${us} - type: ${typeof us}`);
 console.log(us);
 class Student {
     id;
